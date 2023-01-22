@@ -23,15 +23,15 @@ export class Boek extends Component {
 
     render() {
         return (
-            <form name="form" action="/doeboeking" method="get">
-                Datum: <input type="date" name="dag" id="datepicker" />
+            <form name="form" action="/doeboeking" method="get" aria-labelledby="Boekings vorm">
+                Datum: <input type="date" name="dag" id="datepicker" aria-labelledby="Datum prikker"/>
                 <br />
-                Aantal mensen: <input type="number" name="aantal" />
+                Aantal mensen: <input type="number" name="aantal" aria-labelledby="Aantal mensen veld"/>
                 <br />
-                Email: <input type="email" name="email" />
+                Email: <input type="email" name="email" aria-labelledby="email veld"/>
                 <br />
                 <br />
-                <input type="submit" value="Doe boeking" />
+                <input type="submit" value="Doe boeking" aria-labelledby="Doe boeking knop"/>
             </form>
         );
     }

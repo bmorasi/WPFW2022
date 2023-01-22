@@ -1,0 +1,5 @@
+C:\Users\Desktop\Desktop\WPFW2022\WPFW2022\Week 12\obj\Debug\net6.0\reactopdracht.csproj.AssemblyReference.cache
+C:\Users\Desktop\Desktop\WPFW2022\WPFW2022\Week 12\obj\Debug\net6.0\reactopdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Desktop\WPFW2022\WPFW2022\Week 12\obj\Debug\net6.0\reactopdracht.AssemblyInfoInputs.cache
+C:\Users\Desktop\Desktop\WPFW2022\WPFW2022\Week 12\obj\Debug\net6.0\reactopdracht.AssemblyInfo.cs
+C:\Users\Desktop\Desktop\WPFW2022\WPFW2022\Week 12\obj\Debug\net6.0\reactopdracht.csproj.CoreCompileInputs.cache

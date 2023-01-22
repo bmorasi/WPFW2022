@@ -25,7 +25,12 @@
       "ProjectGuid": "e8bdde5a-d140-45b5-ada7-b86c5726fe76",
       "DisplayName": "reactopdracht",
       "ColorIndex": 3
+    },
+    "fa0d97e1-b93e-4048-a69a-77e982e86150": {
+      "ProjectGuid": "fa0d97e1-b93e-4048-a69a-77e982e86150",
+      "DisplayName": "reactopdracht",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

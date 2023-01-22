@@ -6,7 +6,7 @@ export class Home extends Component {
 
   render() {
     return (
-      <div>
+      <div aria-labelledby="Klik hier om te boeken">
             Klik <Link to="/Boek">hier</Link> om te boeken.
       </div>
     );

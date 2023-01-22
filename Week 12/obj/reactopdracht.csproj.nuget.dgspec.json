@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Desktop\\Desktop\\WPFW2022\\Week 12\\reactopdracht.csproj": {}
+    "C:\\Users\\Desktop\\Desktop\\WPFW2022\\WPFW2022\\Week 12\\reactopdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Desktop\\Desktop\\WPFW2022\\Week 12\\reactopdracht.csproj": {
+    "C:\\Users\\Desktop\\Desktop\\WPFW2022\\WPFW2022\\Week 12\\reactopdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\Week 12\\reactopdracht.csproj",
+        "projectUniqueName": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\WPFW2022\\Week 12\\reactopdracht.csproj",
         "projectName": "reactopdracht",
-        "projectPath": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\Week 12\\reactopdracht.csproj",
+        "projectPath": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\WPFW2022\\Week 12\\reactopdracht.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\Week 12\\obj\\",
+        "outputPath": "C:\\Users\\Desktop\\Desktop\\WPFW2022\\WPFW2022\\Week 12\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

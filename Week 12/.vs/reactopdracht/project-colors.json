@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "954460af-7d54-424c-b54d-d5ba31c9dee3": {
+      "ProjectGuid": "954460af-7d54-424c-b54d-d5ba31c9dee3",
+      "DisplayName": "reactopdracht",
+      "ColorIndex": 0
+    },
+    "5857f7cb-2fa2-43cf-a32c-9f52cabb969d": {
+      "ProjectGuid": "5857f7cb-2fa2-43cf-a32c-9f52cabb969d",
+      "DisplayName": "reactopdracht",
+      "ColorIndex": 1
+    },
+    "a3c085d8-39ce-4110-9f2b-21cadc42bea6": {
+      "ProjectGuid": "a3c085d8-39ce-4110-9f2b-21cadc42bea6",
+      "DisplayName": "reactopdracht",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e8bdde5a-d140-45b5-ada7-b86c5726fe76": {
+      "ProjectGuid": "e8bdde5a-d140-45b5-ada7-b86c5726fe76",
+      "DisplayName": "reactopdracht",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

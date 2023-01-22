@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tickets</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div id="logo">
+        <img src="logo.png" alt="Efteling logo">
+      </div>
+        <nav>
+			<a href="home.html">Home</a>
+			<a href="about.html">Over ons</a>
+			<a href="tickets.html">Tickets</a>
+		 </nav>
+    </header>
+    <div id="ticket-form">
+      <form>
+		<div>
+			<div id="ticket-type">
+			<div id="text-title">Ticket Select</div>
+			  <label for="adult-tickets">Aantal personen vanaf 4 jaar:</label>
+			  <input type="number" id="adult-tickets" name="adult-tickets" min="0" max="10" value="0">
+			  <br/>
+			  <label for="child-tickets">Aantal kinderen t/m 3 jaar:</label>
+			  <input type="number" id="child-tickets" name="child-tickets" min="0" max="10" value="0">
+			</div>
+			<label for="date">Wanneer wil je komen?</label>
+			<input type="date" id="date" name="date">
+			<input id="reserve-button" type="submit" value="Koop tickets">
+		</div>
+      </form>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tickets</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+	<script src="tickets.js"></script>
+
+  </head>
+  <body>
+    <header>
+      <div id="logo">
+        <img src="logo.png" alt="Efteling logo">
+      </div>
+        <nav>
+			<a href="home.html">Home</a>
+			<a href="about.html">Over ons</a>
+			<a href="tickets.html">Tickets</a>
+		 </nav>
+    </header>
+	<div id="weather-form">
+		<div id="text-title">Weersverwachting <br/>(van de gekozen datum)</div>
+		<div id="max-temp"></div>
+		<div id="min-temp"></div>
+	</div>
+    <div id="ticket-form">
+      <form>
+		<div>
+			<div id="ticket-type">
+			<div id="text-title">Datum Select</div>
+			<label for="date">Wanneer wil je komen?</label>
+			<input type="date" id="date" name="date">
+			<div id="text-title">Ticket Select</div>
+			  <label for="adult-tickets">Aantal personen vanaf 4 jaar:</label>
+			  <input type="number" id="adult-tickets" name="adult-tickets" min="0" max="10" value="0" disabled>
+			  <br/>
+			  <label for="child-tickets">Aantal kinderen t/m 3 jaar:</label>
+			  <input type="number" id="child-tickets" name="child-tickets" min="0" max="10" value="0" disabled>
+			</div>
+			<br/>
+			<label for="total-cost">Totaal prijs: €</label>
+			<input type="text" id="total-cost" name="total-cost" value="0" readonly>
+
+			<input id="reserve-button" type="submit" value="Koop tickets">
+		</div>
+      </form>
+    </div>
+  </body>
+</html>
